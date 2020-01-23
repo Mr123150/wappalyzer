@@ -1609,6 +1609,18 @@
       "implies": "Java",
       "website": "https://www.brightspot.com"
     },
+    "Brownie": {
+      "cats": [
+        1,
+        18
+      ],
+      "js": {
+        "b.l.get": ""
+      },
+      "icon": "Brownie.png",
+      "implies": "PHP",
+      "website": "https://www.browniecms.com"
+    },
     "BrowserCMS": {
       "cats": [
         1
