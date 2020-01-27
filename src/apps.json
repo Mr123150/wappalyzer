@@ -1614,11 +1614,22 @@
         1,
         18
       ],
-      "js": {
-        "b.l.get": ""
+      "headers": {
+        "X-Powered-By": "^Brownie.*$"
       },
       "icon": "Brownie.png",
       "implies": "PHP",
+      "website": "https://www.browniecms.com"
+    },
+    "Brownie Ecommerce": {
+      "cats": [
+        6
+      ],
+      "headers": {
+        "X-Powered-By": "^Brownie-Ecommerce$"
+      },
+      "icon": "Brownie.png",
+      "implies": "Brownie",
       "website": "https://www.browniecms.com"
     },
     "BrowserCMS": {
